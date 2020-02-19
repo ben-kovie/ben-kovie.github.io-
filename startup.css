@@ -1,0 +1,29 @@
+.display-4{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10%;
+  }
+
+  .lead{
+    text-align: center;
+    font-size: 0.6cm;
+  }
+
+  #profile{
+    text-align: center;
+  }
+
+  .col-md-12 {
+    background-color: black;
+    height: 250px;
+  }
+
+  .hubby {
+    color: blanchedalmond;
+    font-size: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .featurette-heading {
+    color: rgb(196, 130, 37);
+  }  
